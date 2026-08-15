@@ -1,7 +1,6 @@
 # Modified Wavenumber Analysis Extended to Physics-Informed Neural Networks
 
-<!-- After linking the repository to Zenodo and publishing a release, paste the DOI badge here: -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/ 10.5281/zenodo.21950119.svg)](https://doi.org/10.5281/zenodo.21950119)
 
 Code and trained models supporting the paper *"Modified Wavenumber Analysis
 Extended to Physics-Informed Neural Networks"* by R. Echeverría, A. Delgado,
@@ -127,8 +126,7 @@ Two caveats when retraining:
 
 ## Citation
 
-If you use this code, please cite the paper and this archived repository (the
-Zenodo DOI once minted).
+If you use this code, please cite the paper and this archived repository (https://doi.org/10.5281/zenodo.21950119).
 
 ## License
 
